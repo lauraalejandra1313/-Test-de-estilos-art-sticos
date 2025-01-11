@@ -9,7 +9,7 @@
             <es>Explicación del test</es>
             <en>Test explanation</en>
         </subnombre>
-        <enlace>explicacion.html</enlace>
+        <enlace>#explicacion</enlace>
         <subnombre>
             <es>Objetivo del test de estilos artísticos</es>
             <en>Objective of the artistic styles test</en>
