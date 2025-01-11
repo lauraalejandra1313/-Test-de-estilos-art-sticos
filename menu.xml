@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>
+            <es>Inicio</es>
+            <en>Home</en>
+        </nombre>
+        <subnombre>
+            <es>Explicación del test</es>
+            <en>Test explanation</en>
+        </subnombre>
+        <enlace>explicacion.html</enlace>
+        <subnombre>
+            <es>Objetivo del test de estilos artísticos</es>
+            <en>Objective of the artistic styles test</en>
+        </subnombre>
+        <enlace>objetivo.html</enlace>
+        <subnombre>
+            <es>Beneficios de participar</es>
+            <en>Benefits of participating</en>
+        </subnombre>
+        <enlace>beneficio.html</enlace>
+        <subnombre>
+            <es>Preguntas frecuentes</es>
+            <en>Frequently Asked Questions</en>
+        </subnombre>
+        <enlace>faq.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Participación</es>
+            <en>Participation</en>
+        </nombre>
+        <subnombre>
+            <es>Responde preguntas sobre preferencias</es>
+            <en>Answer questions about preferences</en>
+        </subnombre>
+        <enlace>preguntas.html</enlace>
+        <subnombre>
+            <es>Secciones sobre pintura, escultura, etc.</es>
+            <en>Sections on painting, sculpture, etc.</en>
+        </subnombre>
+        <enlace>secciones.html</enlace>
+        <subnombre>
+            <es>Resultados visuales del test</es>
+            <en>Visual results of the test</en>
+        </subnombre>
+        <enlace>resultados.html</enlace>
+        <subnombre>
+            <es>Confirmación de respuestas</es>
+            <en>Answer confirmation</en>
+        </subnombre>
+        <enlace>confirmacion.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Resultados</es>
+            <en>Results</en>
+        </nombre>
+        <subnombre>
+            <es>Perfil del estilo artístico</es>
+            <en>Artistic style profile</en>
+        </subnombre>
+        <enlace>perfil.html</enlace>
+        <subnombre>
+            <es>Comparativa con otros estilos</es>
+            <en>Comparison with other styles</en>
+        </subnombre>
+        <enlace>comparativa.html</enlace>
+        <subnombre>
+            <es>Recomendaciones personalizadas</es>
+            <en>Personalized recommendations</en>
+        </subnombre>
+        <enlace>recomendaciones.html</enlace>
+        <subnombre>
+            <es>Visualización de gráficos interactivos</es>
+            <en>Interactive chart visualization</en>
+        </subnombre>
+        <enlace>graficos.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Recursos Artísticos</es>
+            <en>Artistic Resources</en>
+        </nombre>
+        <subnombre>
+            <es>Videos sobre estilos artísticos</es>
+            <en>Videos on artistic styles</en>
+        </subnombre>
+        <enlace>videos.html</enlace>
+        <subnombre>
+            <es>Consejos para mejorar habilidades</es>
+            <en>Tips to improve skills</en>
+        </subnombre>
+        <enlace>consejos.html</enlace>
+        <subnombre>
+            <es>Plantillas y técnicas</es>
+            <en>Templates and techniques</en>
+        </subnombre>
+        <enlace>plantillas.html</enlace>
+        <subnombre>
+            <es>Historia de los estilos artísticos</es>
+            <en>History of artistic styles</en>
+        </subnombre>
+        <enlace>historia.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Comunidad</es>
+            <en>Community</en>
+        </nombre>
+        <subnombre>
+            <es>Foros de discusión sobre arte</es>
+            <en>Discussion forums on art</en>
+        </subnombre>
+        <enlace>foros.html</enlace>
+        <subnombre>
+            <es>Colaboraciones artísticas</es>
+            <en>Artistic collaborations</en>
+        </subnombre>
+        <enlace>colaboraciones.html</enlace>
+        <subnombre>
+            <es>Exposiciones y eventos</es>
+            <en>Exhibitions and events</en>
+        </subnombre>
+        <enlace>exposiciones.html</enlace>
+        <subnombre>
+            <es>Grupos de artistas</es>
+            <en>Artist groups</en>
+        </subnombre>
+        <enlace>grupos.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Extras</es>
+            <en>Extras</en>
+        </nombre>
+        <subnombre>
+            <es>Tutoriales de técnicas artísticas</es>
+            <en>Artistic technique tutorials</en>
+        </subnombre>
+        <enlace>tutoriales.html</enlace>
+        <subnombre>
+            <es>Materiales recomendados</es>
+            <en>Recommended materials</en>
+        </subnombre>
+        <enlace>materiales.html</enlace>
+        <subnombre>
+            <es>Artículos sobre historia del arte</es>
+            <en>Articles on art history</en>
+        </subnombre>
+        <enlace>articulos.html</enlace>
+        <subnombre>
+            <es>Galería de obras</es>
+            <en>Gallery of works</en>
+        </subnombre>
+        <enlace>galeria.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>FAQ</es>
+            <en>FAQ</en>
+        </nombre>
+        <subnombre>
+            <es>Cómo interpretar los resultados</es>
+            <en>How to interpret the results</en>
+        </subnombre>
+        <enlace>interpretar.html</enlace>
+        <subnombre>
+            <es>Modificación de respuestas</es>
+            <en>Answer modification</en>
+        </subnombre>
+        <enlace>modificacion.html</enlace>
+        <subnombre>
+            <es>Privacidad de los datos</es>
+            <en>Data privacy</en>
+        </subnombre>
+        <enlace>privacidad.html</enlace>
+        <subnombre>
+            <es>Soporte técnico</es>
+            <en>Technical support</en>
+        </subnombre>
+        <enlace>soporte.html</enlace>
+    </item>
+    <item>
+        <nombre>
+            <es>Contacto</es>
+            <en>Contact</en>
+        </nombre>
+        <subnombre>
+            <es>Formulario de consulta</es>
+            <en>Inquiry form</en>
+        </subnombre>
+        <enlace>formulario.html</enlace>
+        <subnombre>
+            <es>Redes sociales</es>
+            <en>Social networks</en>
+        </subnombre>
+        <enlace>redes.html</enlace>
+        <subnombre>
+            <es>Feedback y sugerencias</es>
+            <en>Feedback and suggestions</en>
+        </subnombre>
+        <enlace>feedback.html</enlace>
+    </item>
+    <lenguajes>
+        <es>Español</es>
+        <en>Ingles</en>
+    </lenguajes>
+</menu>
